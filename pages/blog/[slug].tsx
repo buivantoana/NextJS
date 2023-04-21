@@ -14,7 +14,7 @@ const PostComponent = ({ user }: any) => {
         <Seo
           title={user[0].title}
           description={user[0].description}
-          url={`https://nextjs2023-zeta.vercel.app/blog/${user[0].slug}`}
+          url={`https://next-7y39ck2kh-toanbui219-gmailcom.vercel.app/blog/${user[0].slug}`}
           thumbnailUrl='https://tse2.mm.bing.net/th?id=OIP.KhEi6z8wYQZVa0IFYmaUXAHaHa&pid=Api&P=0'
         />
         <Container>
